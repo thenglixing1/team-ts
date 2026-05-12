@@ -2,3 +2,5 @@
 Name : then li xing
 Course : BAI
 Favourite food :MCD
+HObby:abc
+Dream job : mcd
